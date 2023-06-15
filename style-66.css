@@ -218,7 +218,7 @@ form.cmp:hover {
     }
     .header::before {content: "🔶 ";}
     .form-button {font-size: 30px;}
-    .form-p::before {content: "♦️ "}
+    .form-p::before {content: "▪️ "}
 }
 form.cmp button:hover {background-color: violet;}
 form.cmp button:active {color: #82eeee;}
