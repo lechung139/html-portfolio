@@ -95,7 +95,7 @@ main.hp {padding: 25px;}
 main.hp .header {
     color: #6E9092;
     font-size: 25px;
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     border: 3px solid #6E9092;
     border-radius: 15px;
     background-color: #f0f7f8;
@@ -104,7 +104,7 @@ main.hp .header {
 main.hp .list {
     color: #1d3a3d;
     font-size: 15px;
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-top: 5px;
     margin-bottom: 20px;
     .second-list {
