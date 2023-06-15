@@ -96,7 +96,6 @@ main.hp .header {
     color: #6E9092;
     font-size: 25px;
     font-family: cursive;
-    font-style: italic;
     border: 3px solid #6E9092;
     border-radius: 15px;
     background-color: #f0f7f8;
@@ -124,7 +123,7 @@ main.hp .container:hover {
         border: unset;
         background-color: unset;
     }
-    .header::before, .header::after {content: "🔶";}
+    .header::before, .header::after {content: " 🔶 ";}
 }
 
 /* FOOTER */
@@ -182,7 +181,6 @@ form.cmp .header {
     color: #6E9092;
     font-size: 25px;
     font-family: cursive;
-    font-style: italic;
     border: 3px solid #6E9092;
     border-radius: 15px;
     background-color: #f0f7f8;
