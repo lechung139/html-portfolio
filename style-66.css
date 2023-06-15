@@ -62,7 +62,6 @@ header.hp .info {
         border-radius: 50%;
         margin: 10px 0;
         padding: 10px;
-        box-shadow: #42474c 0 10px 20px -10px;
     }
 }
 header.hp .left, header.hp .right {
@@ -170,7 +169,6 @@ header.cmp .info {
         border-radius: 50%;
         margin: 10px 0;
         padding: 10px;
-        box-shadow: #42474c 0 10px 20px -10px;
     }
 }
 
