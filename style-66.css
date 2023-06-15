@@ -235,7 +235,6 @@ form.cmp button:active {color: #82eeee;}
         background-color: #5F9EA0;
         border: 3px solid #5F9EA0;
         border-radius: 50%;
-        box-shadow: #000000 0 10px 20px -10px;
         .content {display: none;}
     }
     .nav-moving button:active {background-color: #82eeee;}
