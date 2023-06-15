@@ -180,7 +180,7 @@ form.cmp {padding: 10px;}
 form.cmp .header {
     color: #6E9092;
     font-size: 25px;
-    font-family: cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
     border: 3px solid #6E9092;
     border-radius: 15px;
     background-color: #f0f7f8;
@@ -190,7 +190,6 @@ form.cmp .list {
     color: #6E9092;
     font-size: 20px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
-    font-style: italic;
     padding-left: 35px;
 }
 form.cmp p {padding-top: 10px;}
